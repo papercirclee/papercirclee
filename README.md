@@ -1,5 +1,3 @@
-# Tz-Yuan
-Robotics systems, marine autonomy, and field-ready engineering.
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,40:134E4A,100:F97316&text=Li%20Tz%20Yuan&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Robotics%20systems%20%7C%20Marine%20autonomy%20%7C%20Field-ready%20engineering&descAlignY=58&descSize=18)
